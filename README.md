@@ -1,9 +1,9 @@
-# NGS input setting file for Hangul new 3 beol layout compatible with Dvorak
+# NGS input setting file for Hangul New 3 Beol layout compatible with Dvorak
 
 
  ## 설명
 
-- 필자가 개발해서 사용하는 (가칭) 새벌식 한글 글쇠배열을 윈도우에서 사용하기 위해 만든 날개셋 입력기 설정 파일
+- 필자가 개발해서 사용하는 (가칭) 새벌식 한글 글쇠배열을 윈도우에서 사용하기 위해 만든 날개셋 입력기 설정 파일이다.
 
 > https://github.com/awfrok/HangulNew3onDvorak
 
@@ -19,13 +19,13 @@
 ## 사용법
 
 1. [날개셋 입력기](http://moogi.new21.org/ngs_download.htm)를 설치한다.
-2. 설정파일을 부른 후, 빠른설정에서 신세벌식을 고른다. (자음 연타와 복모음을 설정한다.)
+2. 설정파일을 부른 후, 빠른설정에서 신세벌식을 고른다. (자음 연타와 복모음 조합을 설정한다.)
 
 
 
 ## 주의
 
-1. 윈도우10 pro 영문판 64-bit, 날개셋입력기 10.4에서 만든 설정파일임.
+1. 윈도우10 pro 영문판 64-bit, 날개셋입력기 10.4에서 만든 설정파일이다. 다른 환경에서 확인하지 않았다.
 
 ## License
 
