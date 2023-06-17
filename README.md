@@ -10,6 +10,12 @@
 ![KeyboardLayout_HangulNew3onDvorak_v0.3.3.jpg](https://github.com/awfrok/HangulNew3onDvorak/raw/master/KeyboardLayout_HangulNew3onDvorak_v0.3.3.jpg?raw=true)
 
 
+
+## 설정 파일 고르는 법
+`설정(Settings)/언어(Language)/언어옵션(Language Option)/자판(Keyboard)`에서
+- `Dvorak`을 선택했으면, `New3OnDvorakDriverSetting_NGS10_4.set`을 내려받는다.
+- `US` 계열을 선택했으면 `New3OnUSDriverSetting_NGS10_4.set`을 내려받는다.
+ 
 ## 사용법
 
 1. 날개셋 입력기를 설치한다.
