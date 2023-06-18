@@ -14,7 +14,7 @@
 ## 설정 파일 고르는 법
 `설정(Settings)/언어(Language)/언어옵션(Language Option)/자판(Keyboard)`에서
 - `Dvorak`을 선택했다면, `New3OnDvorak_NGS10_4.set`을 내려받는다. 
-- (자판 자체 기능으로 배열을 `Dvorak`으로 바꾸고) `Qwerty` 계열을 선택했다면, `New3OnUS_NGS10_4.set`을 내려받는다.
+- (자판 자체 기능으로 배열을 `Dvorak`으로 바꾸고) `Qwerty` 계열을 선택했다면, `New3OnQwerty_NGS10_4.set`을 내려받는다.
  
 ## 사용법
 
