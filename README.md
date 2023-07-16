@@ -7,8 +7,7 @@
 
 > https://github.com/awfrok/HangulNew3onDvorak
 
-![KeyboardLayout_HangulNew3onDvorak_v0.3.3.jpg](https://github.com/awfrok/HangulNew3onDvorak/raw/master/KeyboardLayout_HangulNew3onDvorak_v0.3.3.jpg?raw=true)
-
+![](https://github.com/awfrok/HangulNew3BeolOnDvorak/blob/master/HangulNew3onDvorak_0.3.3.jpg?raw=true)
 
 
 ## 설정 파일 고르는 법
