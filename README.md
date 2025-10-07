@@ -7,8 +7,7 @@
 
 > https://github.com/awfrok/HangulNew3onDvorak
 
-![](https://github.com/awfrok/HangulNew3BeolOnDvorak/blob/master/HangulNew3onDvorak.jpg?raw=true)
-
+![](https://github.com/awfrok/HangulNew3BeolOnDvorak/blob/master/HangulNew3BeolOnDvorak.jpg?raw=true)
 
 ## 설정 파일 고르는 법
 윈도우10의 `설정(Settings)/언어(Language)/언어옵션(Language Option)/자판(Keyboard)`에서
