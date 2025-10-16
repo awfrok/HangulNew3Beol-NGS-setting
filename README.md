@@ -19,7 +19,8 @@
 1. [날개셋 입력기](http://moogi.new21.org/ngs_download.htm)를 설치한다.
 2. 설정파일을 부른 후, 빠른설정에서 신세벌식을 고른다. (자음 연타와 복모음 조합을 설정한다.)
 
-
+### Linux 에서 사용하려면 다음을 참조한다.
+> https://github.com/awfrok/HangulNew3Beol-UIM-settings
 
 ## 주의
 
